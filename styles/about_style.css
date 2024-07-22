@@ -1,0 +1,100 @@
+.home-tab {
+    display: inline-block;
+    margin: 0 auto;
+    font-family: Arial;
+    background-color: rgb(253, 0, 0);
+    color: white;
+    width: 10%;
+    height: 5%;
+    border-radius: 10px;
+    text-align: center;
+}
+.about-text{
+    border-radius: 10%;
+    background-color: black;
+    color: white;
+    font-family: Arial;
+    font-size: 20px;
+    width: 50%;
+    margin-left: 5%;
+    margin-top: 10%;
+    text-align: center;
+}
+.exmaple-games{
+    background-color: black;
+    color: white;
+    font-family: Arial;
+    font-size: 30px;
+    border-radius: 5%;
+}
+.bloxfruits-image{
+    background-color: red;
+    text-align: left;
+    text-justify: kashida;
+    border-radius: 10%;
+}
+.adoptme-image{
+    background-color: red;
+    text-align: left;
+    text-justify: kashida;
+    border-radius: 10%;
+}
+.brookheaven-image{
+    text-align: left;
+    text-justify: kashida;
+    background-color: red;
+    border-radius: 10%;
+}
+.brookheaven{
+    border-radius: 10%;
+}
+.adopt-me{
+    border-radius: 10%;
+}
+.bloxfruits{
+    border-radius: 10%;
+}
+.roblox-studio{
+    
+    border-radius: 10%;
+    background-color: black;
+    font-family: Arial;
+    color: white;
+}
+.roblox-studio-icon{
+    border-radius: 10%;
+}
+.baseplate-image{
+    border-radius: 10%;
+}
+.home-link-tab:hover{
+    border-radius: 10%;
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    color: black;
+}
+.about-tab:hover{
+    border-radius: 10%;
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    color: black;
+}
+.history-tab:hover{
+    border-radius: 10%;
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    color: black;
+}
+.finished-roblox-studio{
+    border-radius: 10%;
+}
+.credits-tab:hover{
+    border-radius: 10%;
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    color: black;
+}
